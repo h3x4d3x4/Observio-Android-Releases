@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 10,
-      "versionName": "1.0.0-beta10",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta10/Observio-Android-1.0.0-beta10.apk",
-      "sha256": "0d5adb8306aa7d2bf7939d3a41d8374268be0811239c0727aa9449d13a774ebd",
-      "size": 38799999,
+      "versionCode": 11,
+      "versionName": "1.0.0-beta11",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta11/Observio-Android-1.0.0-beta11.apk",
+      "sha256": "8212a8e862dcb711624cf2b87c0d15436decce5bca39e707661c64cd08f9f4a8",
+      "size": 39144419,
       "minSdk": 26,
       "published": "2026-09-29",
-      "notes": "A sharper picture on TV boxes, a calmer player info bar, and movie and series details straight from your provider."
+      "notes": "New icon; FHD channels start clean and play at full motion on every TV box; the TV channel list responds first time and walks every group."
     }
   }
 }
