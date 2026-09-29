@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 9,
-      "versionName": "1.0.0-beta9",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta9/Observio-Android-1.0.0-beta9.apk",
-      "sha256": "15ee3e4415201941f06445c257d4dc93f2f81f55e84994ed83106087622b13dc",
-      "size": 38743607,
+      "versionCode": 10,
+      "versionName": "1.0.0-beta10",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta10/Observio-Android-1.0.0-beta10.apk",
+      "sha256": "0d5adb8306aa7d2bf7939d3a41d8374268be0811239c0727aa9449d13a774ebd",
+      "size": 38799999,
       "minSdk": 26,
       "published": "2026-09-29",
-      "notes": "A redesigned TV version: Live TV first, a calmer look, every screen made for the remote, Quick Controls, remote presets, and accurate catch-up."
+      "notes": "A sharper picture on TV boxes, a calmer player info bar, and movie and series details straight from your provider."
     }
   }
 }
