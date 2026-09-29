@@ -1,1 +1,15 @@
-{"schema":1,"channels":{}}
+{
+  "schema": 1,
+  "channels": {
+    "beta": {
+      "versionCode": 6,
+      "versionName": "1.0.0-beta6",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta6/Observio-Android-1.0.0-beta6.apk",
+      "sha256": "c2f7f66458931ea35afdbf26600522a3677f2dfc763cb1d040f1ecff0bd1e821",
+      "size": 38292547,
+      "minSdk": 26,
+      "published": "2026-09-29",
+      "notes": "Android TV, Google TV and Fire TV: a TV interface built for the remote, a full guide, set up from your phone, 50 Hz / 24 Hz matching and surround passthrough. New for everyone: automatic updates (Settings › Updates). Includes everything from beta 5."
+    }
+  }
+}
