@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 7,
-      "versionName": "1.0.0-beta7",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta7/Observio-Android-1.0.0-beta7.apk",
-      "sha256": "93429695bcff8387adaa89f233923f2675c56fd8b4eb49521a3e5058a309fcdb",
-      "size": 38380799,
+      "versionCode": 8,
+      "versionName": "1.0.0-beta8",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta8/Observio-Android-1.0.0-beta8.apk",
+      "sha256": "d45806425eb2642abf0e848c093e9cf4143d5fdf9069ffbb273003a7136aa76d",
+      "size": 38455947,
       "minSdk": 26,
       "published": "2026-09-29",
-      "notes": "TVs: adding a provider with the remote works end to end, clearer focus on buttons, a round app icon. Everyone: a playlist's own guide is no longer replaced by a guessed address."
+      "notes": "The TV version now speaks your language: Portuguese, Spanish, German, French, Italian and Dutch."
     }
   }
 }
