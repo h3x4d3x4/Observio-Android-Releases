@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 13,
-      "versionName": "1.0.0-beta13",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta13/Observio-Android-1.0.0-beta13.apk",
-      "sha256": "98b83c50450aec4c64d8c8bd3239537604bcdbdb5d0b4589419bcd7fed663b68",
-      "size": 39403935,
+      "versionCode": 14,
+      "versionName": "1.0.0-beta14",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta14/Observio-Android-1.0.0-beta14.apk",
+      "sha256": "8ced449a6f02e6da37b14f14d5570f30851b714e23d986044d4fdf7a64a04928",
+      "size": 39461707,
       "minSdk": 26,
       "published": "2026-09-30",
-      "notes": "The Android TV rebuild: a smooth new Guide, live previews that grow to full screen without a flash, press-and-hold remote actions with new player overlays, redesigned Movies & Series and a Settings side panel."
+      "notes": "The best of the old and new TV screens, blended: Settings that grow with you, TV Guide first with My List, one calm player band, and a channel list that walks back through the days."
     }
   }
 }
