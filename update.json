@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 14,
-      "versionName": "1.0.0-beta14",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta14/Observio-Android-1.0.0-beta14.apk",
-      "sha256": "8ced449a6f02e6da37b14f14d5570f30851b714e23d986044d4fdf7a64a04928",
+      "versionCode": 15,
+      "versionName": "1.0.0-beta15",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta15/Observio-Android-1.0.0-beta15.apk",
+      "sha256": "467409ca7fa1057c7617106134b522f0d88fd6348b492a0ffe529f823772ab9b",
       "size": 39461707,
       "minSdk": 26,
       "published": "2026-09-30",
-      "notes": "The best of the old and new TV screens, blended: Settings that grow with you, TV Guide first with My List, one calm player band, and a channel list that walks back through the days."
+      "notes": "A fresh install opens on the TV Guide, and the player's OK band gets slicker buttons: one glass bar, a white focus, grey values."
     }
   }
 }
