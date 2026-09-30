@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 15,
-      "versionName": "1.0.0-beta15",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta15/Observio-Android-1.0.0-beta15.apk",
-      "sha256": "467409ca7fa1057c7617106134b522f0d88fd6348b492a0ffe529f823772ab9b",
+      "versionCode": 16,
+      "versionName": "1.0.0-beta16",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta16/Observio-Android-1.0.0-beta16.apk",
+      "sha256": "b980b54dcc0d14cfff7d20461d9599d9c1e5c0cc053d305c85f932c35bccd83a",
       "size": 39461707,
       "minSdk": 26,
       "published": "2026-09-30",
-      "notes": "A fresh install opens on the TV Guide, and the player's OK band gets slicker buttons: one glass bar, a white focus, grey values."
+      "notes": "The TV app matches the Mac app: same icons, the channel you're watching shown the same way everywhere, and the info band in Observio's petrol."
     }
   }
 }
