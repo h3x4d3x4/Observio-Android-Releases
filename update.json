@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 19,
-      "versionName": "1.0.0-beta19",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta19/Observio-Android-1.0.0-beta19.apk",
-      "sha256": "39acc865cee701b7f0858225069fe76240fc2e9f808e06634032cee827925c16",
+      "versionCode": 20,
+      "versionName": "1.0.0-beta20",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta20/Observio-Android-1.0.0-beta20.apk",
+      "sha256": "5428fe67b7190814b74385aea5653913a0cf4cab4506ff7395c8bc2e3030d7fd",
       "size": 34982560,
       "minSdk": 26,
       "published": "2026-10-02",
-      "notes": "Series posters without a TMDB key, faster covers, Local Network Sync with Mac, iPhone and iPad, and everything from beta17–18: phones match the Mac and TV apps, no black TV screen while a channel connects."
+      "notes": "A Close button in the fullscreen player takes you straight back to the app, and the volume indicator no longer covers the play button."
     }
   }
 }
