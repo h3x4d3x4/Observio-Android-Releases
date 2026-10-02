@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 20,
-      "versionName": "1.0.0-beta20",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta20/Observio-Android-1.0.0-beta20.apk",
-      "sha256": "5428fe67b7190814b74385aea5653913a0cf4cab4506ff7395c8bc2e3030d7fd",
-      "size": 34982560,
+      "versionCode": 21,
+      "versionName": "1.0.0-beta21",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta21/Observio-Android-1.0.0-beta21.apk",
+      "sha256": "15de2b4a76250da78366210e38162b71cc1a3e0b78f2f291acc541e451440b6f",
+      "size": 34982924,
       "minSdk": 26,
       "published": "2026-10-02",
-      "notes": "A Close button in the fullscreen player takes you straight back to the app, and the volume indicator no longer covers the play button."
+      "notes": "Updates now arrive within a few hours and when you open the app, and Check for Updates is on the main Settings screen. Also: a Close button in the fullscreen player."
     }
   }
 }
