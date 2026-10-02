@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 16,
-      "versionName": "1.0.0-beta16",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta16/Observio-Android-1.0.0-beta16.apk",
-      "sha256": "b980b54dcc0d14cfff7d20461d9599d9c1e5c0cc053d305c85f932c35bccd83a",
-      "size": 39461707,
+      "versionCode": 19,
+      "versionName": "1.0.0-beta19",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta19/Observio-Android-1.0.0-beta19.apk",
+      "sha256": "39acc865cee701b7f0858225069fe76240fc2e9f808e06634032cee827925c16",
+      "size": 34982560,
       "minSdk": 26,
-      "published": "2026-09-30",
-      "notes": "The TV app matches the Mac app: same icons, the channel you're watching shown the same way everywhere, and the info band in Observio's petrol."
+      "published": "2026-10-02",
+      "notes": "Series posters without a TMDB key, faster covers, Local Network Sync with Mac, iPhone and iPad, and everything from beta17–18: phones match the Mac and TV apps, no black TV screen while a channel connects."
     }
   }
 }
