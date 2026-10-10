@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 23,
-      "versionName": "1.0.0-beta23",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta23/Observio-Android-1.0.0-beta23.apk",
-      "sha256": "d4c3610914e279c9f6c9de77ef7df6299d83ec357f0862ad14bb0f6acca5f4b2",
-      "size": 35012244,
+      "versionCode": 24,
+      "versionName": "1.0.0-beta24",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta24/Observio-Android-1.0.0-beta24.apk",
+      "sha256": "e83fbc9b10fec26a1797f7416d707f658ec75aa4d19cd76559cbd80a9d577642",
+      "size": 34997932,
       "minSdk": 26,
-      "published": "2026-10-02",
-      "notes": "TV: the remote works one way everywhere (Back steps out, ← opens what's on the left, hold OK for options) and you can change the extra buttons. Changing channel stays in your group and skips adult channels. The TV opens on Live TV, and setting up a TV from your phone is clearer."
+      "published": "2026-10-10",
+      "notes": "One slim loading bar everywhere, and no more empty screen flashing at launch."
     }
   }
 }
