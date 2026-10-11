@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 30,
-      "versionName": "1.0.0-beta30",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta30/Observio-Android-1.0.0-beta30.apk",
-      "sha256": "83246041c4f2c25177f82485361bf83de3a269e7448073ba6365234cafc7f9af",
-      "size": 35800756,
+      "versionCode": 31,
+      "versionName": "1.0.0-beta31",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta31/Observio-Android-1.0.0-beta31.apk",
+      "sha256": "cd4d51e7073e4f04e0637d76f7e776b6e07969b3884b0eb26457520b3cc1c0fd",
+      "size": 35806292,
       "minSdk": 26,
       "published": "2026-10-11",
-      "notes": "One row per channel for its FHD, HD and SD versions (pick another anytime), automatic switch to the next version if one stops working, logos that come back on their own, and optional channel previews."
+      "notes": "Cleaner channel names: combined channels show their plain name, groups like Portugal leave out the shared country code (All Channels keeps it), and Clean Channel Names is on by default."
     }
   }
 }
