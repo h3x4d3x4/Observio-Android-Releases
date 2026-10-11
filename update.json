@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 29,
-      "versionName": "1.0.0-beta29",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta29/Observio-Android-1.0.0-beta29.apk",
-      "sha256": "f3b077d682cc2304336c957923715571fdbcaa74ad89478011ab013f8b1d8adf",
-      "size": 35749644,
+      "versionCode": 30,
+      "versionName": "1.0.0-beta30",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta30/Observio-Android-1.0.0-beta30.apk",
+      "sha256": "83246041c4f2c25177f82485361bf83de3a269e7448073ba6365234cafc7f9af",
+      "size": 35800756,
       "minSdk": 26,
       "published": "2026-10-11",
-      "notes": "The TV remote works the same way on every screen: Left opens what is on the left and closes panels, colour keys mean the same everywhere, the Guide gets day circles and Go to Time, no more black window while a channel connects, and reminders pop up inside the app."
+      "notes": "One row per channel for its FHD, HD and SD versions (pick another anytime), automatic switch to the next version if one stops working, logos that come back on their own, and optional channel previews."
     }
   }
 }
