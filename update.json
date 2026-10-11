@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 28,
-      "versionName": "1.0.0-beta28",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta28/Observio-Android-1.0.0-beta28.apk",
-      "sha256": "c88a23ba757c2e076d3e1182af8b6d77073b8d1acf4ea792e09ac81d873fac7c",
-      "size": 35711052,
+      "versionCode": 29,
+      "versionName": "1.0.0-beta29",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta29/Observio-Android-1.0.0-beta29.apk",
+      "sha256": "f3b077d682cc2304336c957923715571fdbcaa74ad89478011ab013f8b1d8adf",
+      "size": 35749644,
       "minSdk": 26,
       "published": "2026-10-11",
-      "notes": "Polish for TV: Settings and dialogs follow Interface Size, Back from the remote screens returns to Settings, hints follow your remote buttons, the Guide's refresh warning no longer pushes channels down, and clearer Audio Delay with Tunneled Playback."
+      "notes": "The TV remote works the same way on every screen: Left opens what is on the left and closes panels, colour keys mean the same everywhere, the Guide gets day circles and Go to Time, no more black window while a channel connects, and reminders pop up inside the app."
     }
   }
 }
