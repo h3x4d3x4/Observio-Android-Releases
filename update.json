@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 26,
-      "versionName": "1.0.0-beta26",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta26/Observio-Android-1.0.0-beta26.apk",
-      "sha256": "923f3846b00f6cf754fa5a2e20bad05153e3d3cfa78cb97a2f569afafc81e2f4",
-      "size": 35689512,
+      "versionCode": 27,
+      "versionName": "1.0.0-beta27",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta27/Observio-Android-1.0.0-beta27.apk",
+      "sha256": "94682d6ad22e6544b2377b4c8b84c49d50143096e94d0db5c4a3d91b1b63daaf",
+      "size": 35703804,
       "minSdk": 26,
       "published": "2026-10-11",
-      "notes": "Smoother channel changes on TV (the last picture stays until the next channel starts), more playback fixes for every box (Audio Decoding, Tunneled Playback, Amlogic Compatibility, 50/60 Hz frame-rate options), per-channel Audio Delay, AAC audio that some boxes can't decode, .xml.xz guides, Xtream stream format and udpxy."
+      "notes": "A slicker TV player bar that shows each setting's value, a bigger live picture in the Guide, settings values under their names, new Appearance options (two-line names, Reduce Motion, Panel Glass, Show Clock), recent searches, and a heads-up when a provider or guide can't refresh."
     }
   }
 }
