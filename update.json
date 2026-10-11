@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 27,
-      "versionName": "1.0.0-beta27",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta27/Observio-Android-1.0.0-beta27.apk",
-      "sha256": "94682d6ad22e6544b2377b4c8b84c49d50143096e94d0db5c4a3d91b1b63daaf",
-      "size": 35703804,
+      "versionCode": 28,
+      "versionName": "1.0.0-beta28",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta28/Observio-Android-1.0.0-beta28.apk",
+      "sha256": "c88a23ba757c2e076d3e1182af8b6d77073b8d1acf4ea792e09ac81d873fac7c",
+      "size": 35711052,
       "minSdk": 26,
       "published": "2026-10-11",
-      "notes": "A slicker TV player bar that shows each setting's value, a bigger live picture in the Guide, settings values under their names, new Appearance options (two-line names, Reduce Motion, Panel Glass, Show Clock), recent searches, and a heads-up when a provider or guide can't refresh."
+      "notes": "Polish for TV: Settings and dialogs follow Interface Size, Back from the remote screens returns to Settings, hints follow your remote buttons, the Guide's refresh warning no longer pushes channels down, and clearer Audio Delay with Tunneled Playback."
     }
   }
 }
