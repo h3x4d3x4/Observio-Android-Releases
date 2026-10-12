@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 36,
-      "versionName": "1.0.0-beta36",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta36/Observio-Android-1.0.0-beta36.apk",
-      "sha256": "37e9c89d5ce414092ec9f558320f53d2f54596acf54fe1938c8ea6fc0d61857e",
-      "size": 35821988,
+      "versionCode": 37,
+      "versionName": "1.0.0-beta37",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta37/Observio-Android-1.0.0-beta37.apk",
+      "sha256": "9f5c5a291f4b9b793d86a8c12ad332f965ebca41e154b0ed56a6fb0b2b68c29c",
+      "size": 35861824,
       "minSdk": 26,
       "published": "2026-10-12",
-      "notes": "Channel Versions settings are now under Settings › Library & Channels, as on iPhone and iPad."
+      "notes": "Settings have the same pages and names as on iPhone, iPad and Mac, and search finds every setting. Subtitle Style is back in Playback, Buffer has a Maximum (10s) choice, and Accounts › TMDB can download all artwork when you choose to."
     }
   }
 }
