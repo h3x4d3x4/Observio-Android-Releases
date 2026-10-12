@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 35,
-      "versionName": "1.0.0-beta35",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta35/Observio-Android-1.0.0-beta35.apk",
-      "sha256": "2eb90c340a1377f6c13b6f7e90ea8c653d8d861cab50bbd8ebcb5795dfb9028d",
-      "size": 35820580,
+      "versionCode": 36,
+      "versionName": "1.0.0-beta36",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta36/Observio-Android-1.0.0-beta36.apk",
+      "sha256": "37e9c89d5ce414092ec9f558320f53d2f54596acf54fe1938c8ea6fc0d61857e",
+      "size": 35821988,
       "minSdk": 26,
       "published": "2026-10-12",
-      "notes": "Upscale channels group with their versions; HEVC ranks after FHD and is a Preferred Version choice; Settings › Playback no longer closes the app."
+      "notes": "Channel Versions settings are now under Settings › Library & Channels, as on iPhone and iPad."
     }
   }
 }
