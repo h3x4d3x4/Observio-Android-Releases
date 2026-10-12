@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 37,
-      "versionName": "1.0.0-beta37",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta37/Observio-Android-1.0.0-beta37.apk",
-      "sha256": "9f5c5a291f4b9b793d86a8c12ad332f965ebca41e154b0ed56a6fb0b2b68c29c",
-      "size": 35861824,
+      "versionCode": 38,
+      "versionName": "1.0.0-beta38",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta38/Observio-Android-1.0.0-beta38.apk",
+      "sha256": "a552c70c6823a85161d48841286fae677286d6989525b8c2243d8f8ffbb22172",
+      "size": 35873424,
       "minSdk": 26,
-      "published": "2026-10-12",
-      "notes": "Settings have the same pages and names as on iPhone, iPad and Mac, and search finds every setting. Subtitle Style is back in Playback, Buffer has a Maximum (10s) choice, and Accounts › TMDB can download all artwork when you choose to."
+      "published": "2026-10-13",
+      "notes": "Bigger, lighter TV screens: the Guide keeps the picture full screen, ← goes back in time, the channel list shows the schedule, box's own deinterlacing by default and less stutter when a channel starts."
     }
   }
 }
