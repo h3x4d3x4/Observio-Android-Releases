@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 32,
-      "versionName": "1.0.0-beta32",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta32/Observio-Android-1.0.0-beta32.apk",
-      "sha256": "23900c74092c4aa68218561d94424100355eaeeb1b43402e273ab5bc0831f1d9",
-      "size": 35810940,
+      "versionCode": 33,
+      "versionName": "1.0.0-beta33",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta33/Observio-Android-1.0.0-beta33.apk",
+      "sha256": "011e8b188d75bfe1314f1be1a9515d2086f5b3f48b664bce7db0d39eef7986d4",
+      "size": 35814028,
       "minSdk": 26,
-      "published": "2026-10-11",
-      "notes": "One press to a channel's versions while it plays, clean names in the player, catch-up marks in the side panels and quicker version changes on phones."
+      "published": "2026-10-12",
+      "notes": "Channel and version changes on one-connection subscriptions no longer stop with an error, and the Guide shows one row per channel with clean names."
     }
   }
 }
