@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 38,
-      "versionName": "1.0.0-beta38",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta38/Observio-Android-1.0.0-beta38.apk",
-      "sha256": "a552c70c6823a85161d48841286fae677286d6989525b8c2243d8f8ffbb22172",
-      "size": 35873424,
+      "versionCode": 39,
+      "versionName": "1.0.0-beta39",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta39/Observio-Android-1.0.0-beta39.apk",
+      "sha256": "ec90c617de7e517d5c2cd8625785453c7590652384920cd507112256548d0b3f",
+      "size": 35898516,
       "minSdk": 26,
       "published": "2026-10-13",
-      "notes": "Bigger, lighter TV screens: the Guide keeps the picture full screen, ← goes back in time, the channel list shows the schedule, box's own deinterlacing by default and less stutter when a channel starts."
+      "notes": "Hold ↑ or ↓ while watching for a quick channel list; → shows what's on, hold → for versions; no more black background; the grey refresh bar is gone; a slightly smaller default size."
     }
   }
 }
