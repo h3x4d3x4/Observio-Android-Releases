@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 39,
-      "versionName": "1.0.0-beta39",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta39/Observio-Android-1.0.0-beta39.apk",
-      "sha256": "ec90c617de7e517d5c2cd8625785453c7590652384920cd507112256548d0b3f",
-      "size": 35898516,
+      "versionCode": 40,
+      "versionName": "1.0.0-beta40",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta40/Observio-Android-1.0.0-beta40.apk",
+      "sha256": "eacfe361845912238ddbd56115f3dbda9ef3f692683049bbbfea2a7a4b79d41c",
+      "size": 35905272,
       "minSdk": 26,
       "published": "2026-10-13",
-      "notes": "Hold ↑ or ↓ while watching for a quick channel list; → shows what's on, hold → for versions; no more black background; the grey refresh bar is gone; a slightly smaller default size."
+      "notes": "Every remote key does a second thing when held while you watch (Back: Guide, ←: versions, →: last channel, ↑/↓: quick list), and the quick list switches groups with ← →."
     }
   }
 }
