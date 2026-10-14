@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 41,
-      "versionName": "1.0.0-beta41",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta41/Observio-Android-1.0.0-beta41.apk",
-      "sha256": "18cf26569c32df0f3a85203e5126ab0379f5eb700c40f371e9f7f68e573cef74",
-      "size": 35929388,
+      "versionCode": 42,
+      "versionName": "1.0.0-beta42",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta42/Observio-Android-1.0.0-beta42.apk",
+      "sha256": "e4782610f5bd449858f7eba5134d85374e8035e8e053a2816d269191488488fd",
+      "size": 35933464,
       "minSdk": 26,
       "published": "2026-10-14",
-      "notes": "Observio now opens on your last channel. The quick channel list shows the whole group with section headings and more about each programme, OK retries a channel that can't play, and it runs smoother on older TV boxes."
+      "notes": "Observio now opens on your last channel in full screen, stays smooth and stable while the channel list and guide update (no more slowdowns or crashes with very large providers), and quietly retries a channel that fails."
     }
   }
 }
