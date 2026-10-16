@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 43,
-      "versionName": "1.0.0-beta43",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta43/Observio-Android-1.0.0-beta43.apk",
-      "sha256": "f7f0094e17279ac4a3bddd2ac500dc949d91b396dd23615e8e9bc71ddade53eb",
-      "size": 35960404,
+      "versionCode": 44,
+      "versionName": "1.0.0-beta44",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta44/Observio-Android-1.0.0-beta44.apk",
+      "sha256": "3b6d899d6d4ca71813dfeadefc8a7a2fe07085674db628ca930fd7e76e758e09",
+      "size": 35962340,
       "minSdk": 26,
-      "published": "2026-10-14",
-      "notes": "Guide keeps only your channels; smooth browsing while things update; a notice names what is updating; lower memory on big providers."
+      "published": "2026-10-16",
+      "notes": "**New in beta44**\n- Changing channel with ↑/↓ now carries on past the provider's section headings instead of jumping back to the first channel of the section.\n- Channel lists appear faster when the app opens."
     }
   }
 }
