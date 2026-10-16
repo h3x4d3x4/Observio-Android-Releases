@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 45,
-      "versionName": "1.0.0-beta45",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta45/Observio-Android-1.0.0-beta45.apk",
-      "sha256": "650c970b8713e8cc15b7d3fd6eba1744e2c56d2abd45c00f83889d275cf2d5d4",
-      "size": 35965712,
+      "versionCode": 46,
+      "versionName": "1.0.0-beta46",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta46/Observio-Android-1.0.0-beta46.apk",
+      "sha256": "145bcf5ff68d8fb16a62819889d79fe126c19c5d59601201b294424eedb747fb",
+      "size": 35966868,
       "minSdk": 26,
       "published": "2026-10-16",
-      "notes": "**New in beta45**\n- 1080i channels that played in slow motion on some TV boxes now use the box's own decoder and play smoothly.\n- When the compatibility engine decodes on the box's processor, the picture now keeps up with the sound instead of slowing down.\n- TV boxes always use their own deinterlacing; the Observio (GPU) option, which stuttered on boxes, is gone."
+      "notes": "**New in beta46**\n- On TV boxes whose decoder can't start a channel, the compatibility engine now takes over within about 4 seconds."
     }
   }
 }
