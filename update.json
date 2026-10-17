@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 46,
-      "versionName": "1.0.0-beta46",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta46/Observio-Android-1.0.0-beta46.apk",
-      "sha256": "145bcf5ff68d8fb16a62819889d79fe126c19c5d59601201b294424eedb747fb",
-      "size": 35966868,
+      "versionCode": 47,
+      "versionName": "1.0.0-beta47",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta47/Observio-Android-1.0.0-beta47.apk",
+      "sha256": "ebcc35f1c470f56e6a04cbaf1bb07591a05921cc83bd69842177a96e2ecffd1b",
+      "size": 36017420,
       "minSdk": 26,
-      "published": "2026-10-16",
-      "notes": "**New in beta46**\n- On TV boxes whose decoder can't start a channel, the compatibility engine now takes over within about 4 seconds."
+      "published": "2026-10-17",
+      "notes": "Faster, steadier Live TV: quick channel changes tune once, Live TV opens instantly, Level Volume evens out loud and quiet channels, a selectable progress bar, a sleep timer that lets the box sleep, and clearer TV screens."
     }
   }
 }
