@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 51,
-      "versionName": "1.0.0-beta51",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta51/Observio-Android-1.0.0-beta51.apk",
-      "sha256": "8db5a44dcef821a10ddbda4e12ecfedfb849ca67c50fe46a4403a676194afa5a",
-      "size": 36052320,
+      "versionCode": 52,
+      "versionName": "1.0.0-beta52",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta52/Observio-Android-1.0.0-beta52.apk",
+      "sha256": "2a0a2a360009746ede82b946241a18fda16600185ced9d8b05b00a2ff2c248bd",
+      "size": 36058404,
       "minSdk": 26,
       "published": "2026-10-22",
-      "notes": "The TV no longer falls asleep while something is playing, and the sleep timer can now switch the box (and the TV) off for the night."
+      "notes": "New in TV Settings: Ask If Still Watching (off unless you turn it on). Channel previews in lists no longer keep the TV awake."
     }
   }
 }
