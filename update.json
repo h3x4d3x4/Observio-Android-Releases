@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 53,
-      "versionName": "1.0.0-beta53",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta53/Observio-Android-1.0.0-beta53.apk",
-      "sha256": "104a081c95f5f9fc05af5898c103787406aa2d07c87254230e6ff68d5b01dfd6",
-      "size": 36059700,
+      "versionCode": 54,
+      "versionName": "1.0.0-beta54",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta54/Observio-Android-1.0.0-beta54.apk",
+      "sha256": "f4d8c3917f0bf99fc7b937031fccb0a8d68168ebf1792e2edd747a126287916b",
+      "size": 36061148,
       "minSdk": 26,
       "published": "2026-10-22",
-      "notes": "The picture behind the Guide now keeps the TV awake, so it no longer falls asleep while you watch with the Guide open."
+      "notes": "Opening Observio on the last channel: the remote works in the player straight away again."
     }
   }
 }
