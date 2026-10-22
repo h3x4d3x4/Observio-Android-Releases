@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 52,
-      "versionName": "1.0.0-beta52",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta52/Observio-Android-1.0.0-beta52.apk",
-      "sha256": "2a0a2a360009746ede82b946241a18fda16600185ced9d8b05b00a2ff2c248bd",
-      "size": 36058404,
+      "versionCode": 53,
+      "versionName": "1.0.0-beta53",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta53/Observio-Android-1.0.0-beta53.apk",
+      "sha256": "104a081c95f5f9fc05af5898c103787406aa2d07c87254230e6ff68d5b01dfd6",
+      "size": 36059700,
       "minSdk": 26,
       "published": "2026-10-22",
-      "notes": "New in TV Settings: Ask If Still Watching (off unless you turn it on). Channel previews in lists no longer keep the TV awake."
+      "notes": "The picture behind the Guide now keeps the TV awake, so it no longer falls asleep while you watch with the Guide open."
     }
   }
 }
