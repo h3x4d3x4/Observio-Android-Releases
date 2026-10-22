@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 50,
-      "versionName": "1.0.0-beta50",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta50/Observio-Android-1.0.0-beta50.apk",
-      "sha256": "9f79fc0b89d8b7da753adce8aabe80e036860fcd2e5e01c72d2f2ebe9f18a680",
-      "size": 36029376,
+      "versionCode": 51,
+      "versionName": "1.0.0-beta51",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta51/Observio-Android-1.0.0-beta51.apk",
+      "sha256": "8db5a44dcef821a10ddbda4e12ecfedfb849ca67c50fe46a4403a676194afa5a",
+      "size": 36052320,
       "minSdk": 26,
-      "published": "2026-10-17",
-      "notes": "Back from a channel lands on it in Live TV with its own group, more versions of one channel combined, and Picture & Sound keeps your place."
+      "published": "2026-10-22",
+      "notes": "The TV no longer falls asleep while something is playing, and the sleep timer can now switch the box (and the TV) off for the night."
     }
   }
 }
