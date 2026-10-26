@@ -2,14 +2,14 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 54,
-      "versionName": "1.0.0-beta54",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta54/Observio-Android-1.0.0-beta54.apk",
-      "sha256": "f4d8c3917f0bf99fc7b937031fccb0a8d68168ebf1792e2edd747a126287916b",
-      "size": 36061148,
+      "versionCode": 55,
+      "versionName": "1.0.0-beta55",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta55/Observio-Android-1.0.0-beta55.apk",
+      "sha256": "f1d69d7b42558ed4c53861502ab9c990d13eedf230aa64f712bb597921f7b354",
+      "size": 36049944,
       "minSdk": 26,
-      "published": "2026-10-22",
-      "notes": "Opening Observio on the last channel: the remote works in the player straight away again."
+      "published": "2026-10-26",
+      "notes": "Lighter and smoother on TV, and simpler: one list of channel options, a shorter control bar, fewer hints, expert settings on a More page."
     }
   }
 }
