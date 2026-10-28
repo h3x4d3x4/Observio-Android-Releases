@@ -6,6 +6,16 @@ This repository hosts the Android downloads (APK files) and the in-app update fe
 
 Website: [observio.hexadexa.io](https://observio.hexadexa.io)
 
+<p align="center">
+<img src="screenshots/tv-home.webp" width="49%" alt="Home screen on Android TV" />
+<img src="screenshots/tv-guide.webp" width="49%" alt="TV Guide on Android TV" />
+</p>
+<p align="center">
+<img src="screenshots/android-live.webp" width="240" alt="Live TV on an Android phone" />
+</p>
+
+<sub>Screenshots show the built-in demo with Blender Foundation open movies, CC BY.</sub>
+
 ## Download
 
 Get the newest build from the [Releases page](https://github.com/h3x4d3x4/Observio-Android-Releases/releases). Each release contains:
