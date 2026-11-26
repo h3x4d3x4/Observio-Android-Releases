@@ -2,24 +2,24 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 56,
-      "versionName": "1.0.0-beta56",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta56/Observio-Android-1.0.0-beta56.apk",
-      "sha256": "87c859db812e47824ec96652b07507fe162ad99bdad96f70f9502c2f452132c4",
-      "size": 36090596,
+      "versionCode": 57,
+      "versionName": "1.0.0-beta57",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57.apk",
+      "sha256": "8670bcd163dd194bb9e9f8896453e1bc8d33aa6d50294ce9a97767900be046eb",
+      "size": 36141176,
       "minSdk": 26,
       "published": "2026-11-26",
-      "notes": "**New in beta56**\n- Lighter at start-up on TV: Live TV opens with its rows already complete, large provider lists load piece by piece with far less memory, and start-up work is spread out so the picture and the remote come first.\n- Smaller updates: Observio downloads only the build made for your device's processor.\n- Fixed on TV: ← always opens the groups, Back returns to the channel you were watching, picking a group in the player's list lands on a channel, and hiding a channel keeps your place.\n- Notes show above panels, a channel that fails offers Retry, typing a channel number right after start-up works, and the note about a guide that couldn't be reloaded no longer stays on screen.\n- Everyone gets a fresh 30-day free trial with this update.",
+      "notes": "**New in beta57**\n- A simpler remote on TV: hold OK always opens the options for what is in focus or playing, hold Back returns to the picture, and every shortcut also has a tile or a row you can see. Favorites and Channels are now tiles in the player.\n- Channel versions made clear: a channel that comes in several versions (4K, FHD, HD or a backup) shows a mark such as \"FHD · 4 versions\". Pick one in the new Versions list and Observio keeps it for that channel; Automatic undoes it.\n- A channel with several versions shows one number, its lowest; the numbers its versions had still work when you type them.\n- Clearer words: audio tracks show a language and a format instead of a code, and menus use the same names everywhere.\n- Fixed: Live TV no longer opens empty after switching to another provider, Automatic skips a version that just failed instead of trying it again on every tune, holding OK on Retry opens the options, and the free trial keeps counting correctly when a device's clock is wrong.",
       "apks": {
         "arm64-v8a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta56/Observio-Android-1.0.0-beta56-arm64-v8a.apk",
-          "sha256": "b0c976ded15f46cb3ff4953094c07c4da49c8a4806ccc42ca1a2ffa1b1a2fa9d",
-          "size": 22212007
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57-arm64-v8a.apk",
+          "sha256": "cbe611b1f72c7737e91af0818522d839864459c7d52f1bbc87e930c56dcdd458",
+          "size": 22262587
         },
         "armeabi-v7a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta56/Observio-Android-1.0.0-beta56-armeabi-v7a.apk",
-          "sha256": "d5897bb5c33a72432f592d8d658a9b928e46bbbb48af87dff41634c88a35ef56",
-          "size": 20604953
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57-armeabi-v7a.apk",
+          "sha256": "a57010805b0de59ff5889572427af03e896c25ffe4147bf087958e28a7114325",
+          "size": 20655533
         }
       }
     }
