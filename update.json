@@ -2,24 +2,24 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 59,
-      "versionName": "1.0.0-beta59",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59.apk",
-      "sha256": "5bbb3c4b3bc251e1cee7c91c2d83e77c314eb7a848f0ad2d3fbceb759e78e2cd",
-      "size": 36213312,
+      "versionCode": 60,
+      "versionName": "1.0.0-beta60",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60.apk",
+      "sha256": "16e8a9556d7213b03a330fd24434876d44ef382bf1af14b978274b6f82d0ec4c",
+      "size": 36237652,
       "minSdk": 26,
       "published": "2026-11-27",
-      "notes": "**New in beta59**\n- A side menu with names on TV: press Left at the edge of a main screen, or Back, for Search, Live TV, Movies, Series, Recordings, My List and Settings. With an IPTV provider there is no Home any more: Observio opens on your channel or on Live TV.\n- Gentler with busy providers: when a channel answers that it is busy, Observio makes a few spaced attempts, tries one other version, then stops and shows Retry instead of asking again and again.\n- A provider refresh no longer disturbs what you are watching: the playing channel, channel up and down, and a version you have just picked all keep working through it.\n- Faster lists on slower TV boxes: moving through a list goes straight to the next row instead of gliding, so each press needs less than half the drawing.\n- Keys pressed while Observio is still starting are no longer lost: the last one is played as soon as the screen is ready.\n- Tidier screens: messages appear at the bottom and never cover a title, Coming up is a simple list, the full version mark shows whenever there is room, and Settings stays inside the screen's safe area.",
+      "notes": "**New in beta60**\n- One clear status in the TV player: while a channel is starting, reconnecting or has failed, a single line in the info band says so. A failed channel shows the reason, Retry (already selected), Versions when the channel has other versions, and Back to Live TV.\n- The channel list over the picture is one solid column that is easier to read. Press Right on a channel for its schedule; Back closes one layer at a time.\n- The shortcuts at the bottom of the player always fit: with many recent channels the extra shortcuts make room instead of being cut off at the edge.\n- Movies and series: the info band now says what holding OK opens (Sound, Subtitles, Picture).\n- Calmer and lighter: the status no longer flashes for a short stall, nothing in the info band moves when the picture arrives, and a channel's schedule is loaded only when you ask for it.",
       "apks": {
         "arm64-v8a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59-arm64-v8a.apk",
-          "sha256": "c652b34490af54012f162078e6774a9b0f859ce7bdb8fcfa3ddebb635349a371",
-          "size": 22334723
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60-arm64-v8a.apk",
+          "sha256": "dfd2d4c83f609bf8b08d65e42b9c968c781d33c0a4c562fb0105c5144ea63965",
+          "size": 22359063
         },
         "armeabi-v7a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59-armeabi-v7a.apk",
-          "sha256": "2c7082803ce377b0cf38492ebb2cdaa992ce9f1e851cc0e3f4f3c1b73acf4b7e",
-          "size": 20727669
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60-armeabi-v7a.apk",
+          "sha256": "d3719d9386462ce54184a620efce3e0858ada1f9a25f8cceb20e959e435ca128",
+          "size": 20752009
         }
       }
     }
