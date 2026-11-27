@@ -2,24 +2,24 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 58,
-      "versionName": "1.0.0-beta58",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58.apk",
-      "sha256": "65a5c7ea93fe8d8cb9eda47b9cff922b8ecc3c05042d30150df2e5e9559d734f",
-      "size": 36186576,
+      "versionCode": 59,
+      "versionName": "1.0.0-beta59",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59.apk",
+      "sha256": "5bbb3c4b3bc251e1cee7c91c2d83e77c314eb7a848f0ad2d3fbceb759e78e2cd",
+      "size": 36213312,
       "minSdk": 26,
       "published": "2026-11-27",
-      "notes": "**New in beta58**\n- A calmer Live TV on TV: channels are one-line rows, so more of them fit on screen, and what's on shows under the preview. The list over the player, the Quick Channel List and History use the same row.\n- Smoother on slower TV boxes: the background behind the lists is cheaper to draw and channel rows do less work. Back on a channel that failed to play now returns to the list in one press.\n- Your last channel is kept when a provider refreshes its list, and History shows one row per channel instead of old copies.\n- A quieter screen: the key hints show the first three times you open a screen and stay available as Remote Guide at the end of Options. A refresh that failed shows a small amber dot on Settings instead of a banner.\n- Steadier and simpler: the info band in the player keeps one layout, the TV Guide shows whole titles on one line per channel, and Quick Controls lists its options in the same order and with the same names as Settings.\n- Fixed: OK on a channel that just failed opens it with Retry instead of starting a new round of attempts, an empty Favorites opens your last group and tells you how to add favorites, Add Provider names the field that is missing, and Movies with a single category fills the screen.",
+      "notes": "**New in beta59**\n- A side menu with names on TV: press Left at the edge of a main screen, or Back, for Search, Live TV, Movies, Series, Recordings, My List and Settings. With an IPTV provider there is no Home any more: Observio opens on your channel or on Live TV.\n- Gentler with busy providers: when a channel answers that it is busy, Observio makes a few spaced attempts, tries one other version, then stops and shows Retry instead of asking again and again.\n- A provider refresh no longer disturbs what you are watching: the playing channel, channel up and down, and a version you have just picked all keep working through it.\n- Faster lists on slower TV boxes: moving through a list goes straight to the next row instead of gliding, so each press needs less than half the drawing.\n- Keys pressed while Observio is still starting are no longer lost: the last one is played as soon as the screen is ready.\n- Tidier screens: messages appear at the bottom and never cover a title, Coming up is a simple list, the full version mark shows whenever there is room, and Settings stays inside the screen's safe area.",
       "apks": {
         "arm64-v8a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58-arm64-v8a.apk",
-          "sha256": "9136026ebedf871356fbd4a1383977d0be07247878de0065f302ea95d6321dbd",
-          "size": 22307987
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59-arm64-v8a.apk",
+          "sha256": "c652b34490af54012f162078e6774a9b0f859ce7bdb8fcfa3ddebb635349a371",
+          "size": 22334723
         },
         "armeabi-v7a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58-armeabi-v7a.apk",
-          "sha256": "4cf80658d0b10a4f02f5142eb70071f489811fb92b1531b897036b95058df114",
-          "size": 20700933
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta59/Observio-Android-1.0.0-beta59-armeabi-v7a.apk",
+          "sha256": "2c7082803ce377b0cf38492ebb2cdaa992ce9f1e851cc0e3f4f3c1b73acf4b7e",
+          "size": 20727669
         }
       }
     }
