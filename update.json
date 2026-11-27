@@ -2,24 +2,24 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 57,
-      "versionName": "1.0.0-beta57",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57.apk",
-      "sha256": "8670bcd163dd194bb9e9f8896453e1bc8d33aa6d50294ce9a97767900be046eb",
-      "size": 36141176,
+      "versionCode": 58,
+      "versionName": "1.0.0-beta58",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58.apk",
+      "sha256": "65a5c7ea93fe8d8cb9eda47b9cff922b8ecc3c05042d30150df2e5e9559d734f",
+      "size": 36186576,
       "minSdk": 26,
-      "published": "2026-11-26",
-      "notes": "**New in beta57**\n- A simpler remote on TV: hold OK always opens the options for what is in focus or playing, hold Back returns to the picture, and every shortcut also has a tile or a row you can see. Favorites and Channels are now tiles in the player.\n- Channel versions made clear: a channel that comes in several versions (4K, FHD, HD or a backup) shows a mark such as \"FHD · 4 versions\". Pick one in the new Versions list and Observio keeps it for that channel; Automatic undoes it.\n- A channel with several versions shows one number, its lowest; the numbers its versions had still work when you type them.\n- Clearer words: audio tracks show a language and a format instead of a code, and menus use the same names everywhere.\n- Fixed: Live TV no longer opens empty after switching to another provider, Automatic skips a version that just failed instead of trying it again on every tune, holding OK on Retry opens the options, and the free trial keeps counting correctly when a device's clock is wrong.",
+      "published": "2026-11-27",
+      "notes": "**New in beta58**\n- A calmer Live TV on TV: channels are one-line rows, so more of them fit on screen, and what's on shows under the preview. The list over the player, the Quick Channel List and History use the same row.\n- Smoother on slower TV boxes: the background behind the lists is cheaper to draw and channel rows do less work. Back on a channel that failed to play now returns to the list in one press.\n- Your last channel is kept when a provider refreshes its list, and History shows one row per channel instead of old copies.\n- A quieter screen: the key hints show the first three times you open a screen and stay available as Remote Guide at the end of Options. A refresh that failed shows a small amber dot on Settings instead of a banner.\n- Steadier and simpler: the info band in the player keeps one layout, the TV Guide shows whole titles on one line per channel, and Quick Controls lists its options in the same order and with the same names as Settings.\n- Fixed: OK on a channel that just failed opens it with Retry instead of starting a new round of attempts, an empty Favorites opens your last group and tells you how to add favorites, Add Provider names the field that is missing, and Movies with a single category fills the screen.",
       "apks": {
         "arm64-v8a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57-arm64-v8a.apk",
-          "sha256": "cbe611b1f72c7737e91af0818522d839864459c7d52f1bbc87e930c56dcdd458",
-          "size": 22262587
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58-arm64-v8a.apk",
+          "sha256": "9136026ebedf871356fbd4a1383977d0be07247878de0065f302ea95d6321dbd",
+          "size": 22307987
         },
         "armeabi-v7a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta57/Observio-Android-1.0.0-beta57-armeabi-v7a.apk",
-          "sha256": "a57010805b0de59ff5889572427af03e896c25ffe4147bf087958e28a7114325",
-          "size": 20655533
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta58/Observio-Android-1.0.0-beta58-armeabi-v7a.apk",
+          "sha256": "4cf80658d0b10a4f02f5142eb70071f489811fb92b1531b897036b95058df114",
+          "size": 20700933
         }
       }
     }
