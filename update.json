@@ -2,24 +2,24 @@
   "schema": 1,
   "channels": {
     "beta": {
-      "versionCode": 60,
-      "versionName": "1.0.0-beta60",
-      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60.apk",
-      "sha256": "16e8a9556d7213b03a330fd24434876d44ef382bf1af14b978274b6f82d0ec4c",
-      "size": 36237652,
+      "versionCode": 61,
+      "versionName": "1.0.0-beta61",
+      "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta61/Observio-Android-1.0.0-beta61.apk",
+      "sha256": "70b69e7dd733e5408f5b375f2375f41a95e1c88b327ff606aa0b9fb53948d39c",
+      "size": 36252536,
       "minSdk": 26,
       "published": "2026-11-27",
-      "notes": "**New in beta60**\n- One clear status in the TV player: while a channel is starting, reconnecting or has failed, a single line in the info band says so. A failed channel shows the reason, Retry (already selected), Versions when the channel has other versions, and Back to Live TV.\n- The channel list over the picture is one solid column that is easier to read. Press Right on a channel for its schedule; Back closes one layer at a time.\n- The shortcuts at the bottom of the player always fit: with many recent channels the extra shortcuts make room instead of being cut off at the edge.\n- Movies and series: the info band now says what holding OK opens (Sound, Subtitles, Picture).\n- Calmer and lighter: the status no longer flashes for a short stall, nothing in the info band moves when the picture arrives, and a channel's schedule is loaded only when you ask for it.",
+      "notes": "**New in beta61**\n- Simpler Settings on TV: one panel on the right with ten plain categories, all visible at once. Each setting's explanation shows in full beside the panel, and rarely used options moved to the More pages (nothing was removed).\n- A quicker start: one welcome card with Accept and Start, and the remote's main keys shown once on a small card over the first channel you watch. Adding a provider with the remote now goes straight to Live TV and says how many channels were added.\n- Search on TV starts on the letters, shows your recent searches above the results, and offers Voice Search first where the TV has it.\n- Fixed: Back from a film's player returns to the poster you opened, in Search, Movies, Series and My List; holding ← in a panel no longer closes several levels at once; Quick Controls and Settings agree on what your TV and receiver accept.\n- Leaving a film or an episode with Back now stops it, so it no longer plays on unseen behind the page; Resume starts where you left. Quick key presses at the end of a row stay in that row.",
       "apks": {
         "arm64-v8a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60-arm64-v8a.apk",
-          "sha256": "dfd2d4c83f609bf8b08d65e42b9c968c781d33c0a4c562fb0105c5144ea63965",
-          "size": 22359063
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta61/Observio-Android-1.0.0-beta61-arm64-v8a.apk",
+          "sha256": "a896a2d8e7ddf253f54aac7774d93eaa69c741e493850ea1f0bc4cec7affd870",
+          "size": 22373947
         },
         "armeabi-v7a": {
-          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta60/Observio-Android-1.0.0-beta60-armeabi-v7a.apk",
-          "sha256": "d3719d9386462ce54184a620efce3e0858ada1f9a25f8cceb20e959e435ca128",
-          "size": 20752009
+          "apk": "https://github.com/h3x4d3x4/Observio-Android-Releases/releases/download/v1.0.0-beta61/Observio-Android-1.0.0-beta61-armeabi-v7a.apk",
+          "sha256": "97aa4cc7805a43a7d85a9a98af0df8ac9314ed2120ec71c3bb012bf9bd8be3b3",
+          "size": 20766893
         }
       }
     }
